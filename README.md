@@ -3,6 +3,8 @@
 [![AWS SAR](https://img.shields.io/badge/AWS-SAR%20Compatible-orange)](https://serverlessrepo.aws.amazon.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![CloudFormation](https://img.shields.io/badge/CloudFormation-Template-blue)](template.yaml)
+[![GitHub release](https://img.shields.io/github/v/release/tollingvision/sar-cluster)](https://github.com/tollingvision/sar-cluster/releases)
+[![GitHub stars](https://img.shields.io/github/stars/tollingvision/sar-cluster?style=social)](https://github.com/tollingvision/sar-cluster/stargazers)
 
 Complete AWS Serverless Application Repository (SAR) template for deploying secure, scalable **Tolling Vision ANPR/MMR** (Automatic Number Plate Recognition/Make Model Recognition) processing infrastructure.
 
