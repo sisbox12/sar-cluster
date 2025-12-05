@@ -1,0 +1,10 @@
+# Repository settings
+repository:
+  has_issues: true
+  has_projects: false
+  has_wiki: false
+  has_downloads: true
+
+# Disable package features
+package:
+  enabled: false
